@@ -1,1 +1,13 @@
-main.css
+.flex-container{
+	display : flex;
+}
+
+.imgfondo{
+	height: 600px;
+	width: 100%;
+}
+
+img{
+	display: block;
+	margin: 0 auto;
+}
