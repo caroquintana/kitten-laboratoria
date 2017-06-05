@@ -8,6 +8,12 @@
 }
 
 img{
-	display: block;
 	margin: 0 auto;
+	padding: 255px 0 2px;
 }
+
+#container.flex-container{
+	width: 100%;
+	height: 600px
+}
+
